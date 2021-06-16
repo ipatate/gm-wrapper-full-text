@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "goodmotion/gm-wrapper-full-text",
+	"title": "GM Wrapper Full text",
+	"category": "goodmotion-blocks",
+	"icon": "editor-insertmore",
+	"description": "Wrapper full width for text",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "gm-wrapper-full-text",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
